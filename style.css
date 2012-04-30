@@ -1,0 +1,23 @@
+#player1 {
+	border-right-style: solid;
+	border-color: black;
+	border-right-width: 20px;
+	height: 600px;
+}
+
+.person {
+  height: 100px;
+}
+
+#player1 .hero-unit, #player2 .hero-unit {
+	margin-right: 22px;
+	margin-top: 15px;
+}
+
+#player2 {
+
+}
+
+.person {
+	margin-bottom:400px;
+}
